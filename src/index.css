@@ -49,7 +49,6 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
-/* Theme styles driven by [data-theme] on the html element */
 html[data-theme="light"] {
   color: #213547;
   background-color: #ffffff;
